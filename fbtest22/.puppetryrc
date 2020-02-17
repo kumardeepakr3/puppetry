@@ -1,0 +1,24 @@
+{
+  "name": "FBTest22",
+  "appPanels": {
+    "suite": {
+      "panes": []
+    },
+    "settings": {
+      "panes": []
+    }
+  },
+  "groups": {},
+  "savedAt": 1581936472,
+  "modified": false,
+  "lastOpenSuite": "asdff.json",
+  "variables": {},
+  "targets": {},
+  "environments": [
+    "test",
+    "stage",
+    "production"
+  ],
+  "projectDirectory": "C:\\Users\\deku\\Documents\\PuppetryTest\\fbtest22",
+  "puppetry": "3.1.1"
+}

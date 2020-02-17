@@ -1,0 +1,21 @@
+{
+  "title": "asdff",
+  "timeout": 50000,
+  "snippets": false,
+  "description": null,
+  "savedAt": 1581936468,
+  "loadedAt": 1581936450,
+  "modified": false,
+  "filename": "asdff.json",
+  "targets": {
+    "1a44k6qc497k": {
+      "target": "TEST",
+      "id": "1a44k6qc497k",
+      "editing": false,
+      "selector": ".asdf",
+      "key": "1a44k6qc497k"
+    }
+  },
+  "groups": {},
+  "puppetry": "3.1.1"
+}

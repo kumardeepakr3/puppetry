@@ -1,0 +1,16 @@
+{
+  "initialized": false,
+  "commitedAt": 0,
+  "hasRemote": true,
+  "remoteRepository": "https://github.com/kumardeepakr3/puppetry.git",
+  "configUsername": "Deku",
+  "configEmail": "deku@microsoft.com",
+  "credentialsAuthMethod": "accessToken",
+  "credentialsAccessToken": "72fff529831010b70a98207ddb68c7eb03d07468",
+  "credentialsProvider": "",
+  "credentialsUsername": "kumardeepakr3",
+  "credentialsPassword": "G>e1eiitkgithub",
+  "puppetry": "3.1.1",
+  "savedAt": 1581936434,
+  "modified": false
+}
